@@ -5,4 +5,4 @@
 + студент, Попазов П. І., група АІ-221
 + викладач – Блажко О.А, доцент кафедри інформаційних систем Національного університету «Одеська політехніка» (формат - пункт переліку).
 
-Link - https://peteropeduua.github.io/WebAR-Template/
+Link - https://github.com/peteropeduua/WebAR-Template/tree/WebAR-Template_with_pattern_marker
